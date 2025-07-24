@@ -9,11 +9,6 @@
 ## EVA-01
 ![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkxMWsyNjUyOTYxOTJuOHZsMDdqYzZ2YWxzcDBkdDlrZmYyNTV3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7b01gFko9Ohy/giphy.gif)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SurajKarmakar1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SurajKarmakar1&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKarmakar1&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
 
